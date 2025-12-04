@@ -106,4 +106,4 @@ Tautuapae River 1990–1991
 
 ## 6. Acknowledgements
 
-I would like to thank my mentors, Dr. Matthew Becker and Benjamin Bigarre, for introducing me to research and for their support throughout this project.
+I would like to thank my mentors, Dr. Matthew Becker and Benjamin Bigarre, for introducing me to academic research and for their support throughout this project.
