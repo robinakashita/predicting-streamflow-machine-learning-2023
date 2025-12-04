@@ -1,6 +1,6 @@
 # Infilling Missing Streamflow Data in Time-Series Using Simple Linear Regression (CSULB Undergraduate Research 2023)
 
-This repository contains code and notebooks for a hydrologic time-series project focused on infilling missing daily streamflow data using simple linear regression. The analysis uses multi-year records from three stream gages on the island of Mo'orea, French Polynesia (Tautuapae River, PK 20 Est River, and Vaioro River) to improve inputs for a machine learning model of submarine groundwater discharge.
+This repository contains code and notebooks for a hydrologic time-series project focused on infilling missing daily streamflow data using simple linear regression. The analysis uses multi-year records from three stream gauges on the island of Mo'orea, French Polynesia (Tautuapae River, PK 20 Est River, and Vaioro River) to improve inputs for a machine learning model of submarine groundwater discharge.
 
 All work is implemented in Python using Jupyter Notebooks:
 
