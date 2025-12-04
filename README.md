@@ -35,9 +35,9 @@ The workflow in this repository follows these main steps:
      - `X`: streamflow at the independent (donor) gage.
      - `y`: streamflow at the target gage with gaps.
    - Fit a simple linear regression model:
-     $$
+     \[
      y = aX + b
-     $$
+     \]
    - Apply the fitted model to Group A to estimate missing streamflow values at the target gage.
 
 ### 3. Model evaluation
