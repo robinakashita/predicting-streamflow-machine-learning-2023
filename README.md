@@ -2,6 +2,13 @@
 
 This repository contains code and notebooks for a hydrologic time-series project focused on infilling missing daily streamflow data using simple linear regression. The analysis uses multi-year records from three stream gages on the island of Mo'orea, French Polynesia (Tautuapae River, PK 20 Est River, and Vaioro River) to improve inputs for a machine learning model of submarine groundwater discharge.
 
+All work is implemented in Python using Jupyter Notebooks:
+
+- `Vaioro 1987-1988.ipynb`
+- `Tautuapae 1988-1989.ipynb`
+- `Tautuapae 1989-1990.ipynb`
+- `Tautuapae 1990-1991.ipynb`
+
 ---
 
 ## 1. Project Overview
