@@ -76,7 +76,21 @@ This project uses Python and the following core libraries:
 
 ## 4. Figures
 
+Vaioro River 1987 – 1988
 
+![Vaioro River 1987 – 1988](figures/vaioro.png)
+
+Tautuapae River 1988–1988
+
+![Tautuapae River 1988–1988](figures/tau_88-89.png)
+
+Tautuapae River 1989–1990
+
+![Tautuapae River 1989–1990](figures/tau_89-90.png)
+
+Tautuapae River 1990–1991
+
+![Tautuapae River 1990–1991](figures/tau_90-91.png)
 
 ---
 
