@@ -98,7 +98,7 @@ Tautuapae River 1990–1991
 
 - Arriagada, Pedro, et al. “Automatic gap-filling of daily streamflow time series in data-scarce regions using a machine learning algorithm.” Journal of Hydrology, vol. 598, 2021, p. 126454, https://doi.org/10.1016/j.jhydrol.2021.126454.
 
-- Harvey, C., et al. “Developing best practice for Infilling Daily River Flow Data.” Role of Hydrology in Managing Consequences of a Changing Global Environment, 2010, https://doi.org/10.7558/bhs.2010.ic119.
+- Harvey, C., et al. “Developing best practice for Infilling Daily River Flow Data.” Role of Hydrology in Managing Consequences of a Changing Global Environment, 2010.
 
 - Mfwango, Lusajo H, et al. “Estimation of missing river flow data for hydrologic analysis: The Case of Great Ruaha River Catchment.” Hydrology: Current Research, vol. 09, no. 02, 2018, https://doi.org/10.4172/2157-7587.1000299.
 
