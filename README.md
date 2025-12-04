@@ -101,3 +101,9 @@ Tautuapae River 1990–1991
 - Harvey, et al. (2010). Techniques for infilling missing daily streamflow data.
 
 - Mfwango, et al. (2018). Evaluation of regression and recession methods for estimating missing river flows.
+
+---
+
+## 6. Acknowledgements
+
+I would like to thank my mentors, Dr. Matthew Becker and Benjamin Bigarre, for introducing me to research and for their support throughout this project.
