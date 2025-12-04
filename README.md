@@ -96,11 +96,11 @@ Tautuapae River 1990–1991
 
 ## 5. References
 
-- Arriagada, et al. (2021). Methods for gap filling in streamflow records and implications for long term trend analysis.
+- Arriagada, Pedro, et al. “Automatic gap-filling of daily streamflow time series in data-scarce regions using a machine learning algorithm.” Journal of Hydrology, vol. 598, 2021, p. 126454, https://doi.org/10.1016/j.jhydrol.2021.126454.
 
-- Harvey, et al. (2010). Techniques for infilling missing daily streamflow data.
+- Harvey, C., et al. “Developing best practice for Infilling Daily River Flow Data.” Role of Hydrology in Managing Consequences of a Changing Global Environment, 2010, https://doi.org/10.7558/bhs.2010.ic119.
 
-- Mfwango, et al. (2018). Evaluation of regression and recession methods for estimating missing river flows.
+- Mfwango, Lusajo H, et al. “Estimation of missing river flow data for hydrologic analysis: The Case of Great Ruaha River Catchment.” Hydrology: Current Research, vol. 09, no. 02, 2018, https://doi.org/10.4172/2157-7587.1000299.
 
 ---
 
