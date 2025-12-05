@@ -29,14 +29,14 @@ The project is based on the following ideas from the literature:
 
 The workflow in this repository follows these main steps:
 
-### 1. Data preparation
+### 2.1. Data preparation
    - Load daily streamflow records from three gages in Mo'orea.
    - Identify missing values for each station and subset data by hydrologic year.
    - Split each record into:
      - Group A: rows with missing values.
      - Group B: rows with complete data.
 
-### 2. Simple linear regression
+### 2.2. Simple linear regression
    - Select a nearby gage with complete data as the independent variable.
    - For Group B, extract:
      - `X`: streamflow at the independent (donor) gage.
@@ -47,14 +47,14 @@ The workflow in this repository follows these main steps:
      \]
    - Apply the fitted model to Group A to estimate missing streamflow values at the target gage.
 
-### 3. Model evaluation
+### 2.3. Model evaluation
    - Compare predicted values with observed data in periods where both exist.
    - Use standard error metrics to assess the performance of the regression model:
      - Mean Absolute Error (MAE)
      - Mean Square Error (MSE)
      - Root Mean Square Error (RMSE)
 
-### 4. Application to multiple gage pairs
+### 2.4. Application to multiple gage pairs
    - Regress Tautuapae River flows against PK 20 Est River (1987–1988 and 1989–1990).
    - Regress Tautuapae River against Vaioro River (1987–1988 and 1990–1991).
    - Regress Vaioro River against PK 20 Est River (1987–1988) and PK 20 Est River against Vaioro River (1988–1989).
